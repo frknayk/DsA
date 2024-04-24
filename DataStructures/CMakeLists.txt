@@ -1,0 +1,14 @@
+cmake_minimum_required(VERSION 3.24)
+project(Implementations)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(exe_linked_list_single linkedlist_single.cpp)
+add_executable(exe_linked_list_double linked_list_double.cpp)
+add_executable(exe_hoca_linked_list_single hoca_linked_list_single.cpp)
+add_executable(exe_binary_search_tree binary_search_tree.cpp)
+add_executable(exe_bst_furkan bst_furkan.cpp)
+add_executable(exe_quadruply_skip_list quadruply_skip_list.cpp)
+add_executable(exe_heap heap.cpp)
+add_executable(exe_hash_table hash_table.cpp)
+add_executable(exe_priority_queue priority_queue.cpp)
