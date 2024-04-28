@@ -67,7 +67,7 @@ public:
     void printGraph() {
         for (size_t i = 0; i < vertexList.size(); ++i) {
             cout << "Adjacency list of vertex " << i << ":\n";
-            for (int nodeIndex : vertexList[i].adjacentNodes) {
+            for (int nodeIndex : vertexList[i].adjacentList) {
                 cout << "-> " << nodeIndex << " ";
             }
             cout << endl;

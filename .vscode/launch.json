@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "f:/Furkan/Coding/SoftwareEngineering_Projects/DsA/DataStructures",
-      "program": "f:/Furkan/Coding/SoftwareEngineering_Projects/DsA/DataStructures/build/Debug/outDebug",
+      "cwd": "f:/Furkan/Coding/SoftwareEngineering_Projects/DsA/Algorithms",
+      "program": "f:/Furkan/Coding/SoftwareEngineering_Projects/DsA/Algorithms/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
