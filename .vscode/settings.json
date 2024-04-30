@@ -110,6 +110,10 @@
     "ranges": "cpp",
     "span": "cpp",
     "stacktrace": "cpp",
-    "regex": "cpp"
+    "regex": "cpp",
+    "forward_list": "cpp",
+    "valarray": "cpp",
+    "map": "cpp",
+    "bitset": "cpp"
   }
 }
